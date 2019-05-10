@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MavenTestGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MavenTestGame_jar</output-path>
+    <root id="archive" name="MavenTestGame.jar">
+      <element id="module-output" name="MavenTestGame" />
+    </root>
+  </artifact>
+</component>
